@@ -1,1 +1,1 @@
-provider "acme" { alias = "acme" }
+provider "acme" { alias = "provider_alias" }
