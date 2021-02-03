@@ -1,4 +1,4 @@
-## OBS: just to check validations
+## OBS: just to check validations - on provider - so no variables are created
 resource "acme_certificate" "certificate" {
   provider = acme.provider_alias
   account_key_pem           = acme_registration.key

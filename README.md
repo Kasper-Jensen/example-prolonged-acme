@@ -1,2 +1,2 @@
 # example-prolonged-acme
-used to provide the provider
+This example is a module which the top layer uses
